@@ -3,9 +3,11 @@
 Line-following robot in Webots using an e-puck with two IR ground sensors. Follows the line, recovers if it loses it, handles sharp turns, and stops automatically when it returns to the starting point.
 
 ## Demo
+<video width="640" height="360" controls>
+  <source src="assets/lfr_1.mp4" type="video/mp4">
+</video>
+[Demo here](assets/lfr_1.mp4)
 
-
-<img src="assets/lfr_track.jpg" alt="Track layout" width="450"/>
 
 ## Files
 
@@ -36,6 +38,7 @@ Line-following robot in Webots using an e-puck with two IR ground sensors. Follo
 | `base_speed` | 1.5 | Default forward speed |
 | `threshold` | 15 | IR value above which line is "lost" |
 | `max_speed` | 6.28 | Wheel speed cap |
+
 
 ## Possible improvements
 
