@@ -3,10 +3,7 @@
 Line-following robot in Webots using an e-puck with two IR ground sensors. Follows the line, recovers if it loses it, handles sharp turns, and stops automatically when it returns to the starting point.
 
 ## Demo
-<video width="640" height="360" controls>
-  <source src="assets/lfr_1.mp4" type="video/mp4">
-</video>
-[Demo here](assets/lfr_1.mp4)
+![Line follower demo](assets/lfr_full.gif)
 
 
 ## Files
