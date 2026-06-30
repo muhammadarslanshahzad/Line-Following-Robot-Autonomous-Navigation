@@ -6,7 +6,7 @@ Line-following robot in Webots using an e-puck with two IR ground sensors. Follo
 <video width="640" height="360" controls>
   <source src="assets/lfr_1.mp4" type="video/mp4">
 </video>
-![Demo here](assets/lfr_1.mp4)
+[Demo here](assets/lfr_1.mp4)
 
 
 ## Files
